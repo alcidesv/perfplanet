@@ -298,5 +298,11 @@ var folks = [
   "name": "The Performance Beacon",
   "feed": "http://www.soasta.com/feed/",
   "twitter": "SOASTAInc"
+},
+{
+  "blog": "https://www.shimmercat.com/blog/list/",
+  "name": "ShimmerCat's blog",
+  "feed": "https://api1.shimmercat.com/latest/blog/posts/",
+  "twitter": "aviamontes"
 }
 ];
